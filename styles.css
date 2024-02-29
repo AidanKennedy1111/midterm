@@ -1,0 +1,43 @@
+/* External CSS styles */
+body {
+    font-family: Arial, sans-serif;
+    
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    
+  }
+  table.menu {
+    background-color: #f2f2f2;
+    padding: auto;
+  }
+  table.menu td {
+    padding: 20px;
+    border: 1px solid #dddddd;
+    
+  }
+  table.info {
+    width: 100%;
+    border: 1px solid #dddddd;
+  }
+  table.info td {
+    padding: 10px;
+    border: 1px solid #dddddd;
+  }
+  .heading {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    color: red;
+  }
+  h1{
+      color: red;
+  }
+  .blood-drive-image {
+    display: block;
+    margin: 20px auto;
+    width: 333px; 
+    height: auto;
+  }
+  
